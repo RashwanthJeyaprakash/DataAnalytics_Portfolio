@@ -71,7 +71,7 @@ Preview:
 
 **BSc in Business management with Corporate Finance**, 
 International Business School, Budapest. *2021 – 2024 | Hungary*
-                  - **Excellent IT Employability Skill**
+                     - **Excellent IT Employability Skill**
                     - Excel
                     - Excel Pivot Table & Charts
                     - Tableau Desktop
