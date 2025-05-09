@@ -26,15 +26,14 @@ Jump to a section:
 
 ## Excel Projects
 
-### 🔹 [US Employment Dashboard](https://github.com/yourusername/US_Employment_Dashboard)
+### 🔹 [US Employment Dashboard](https://github.com/RashwanthJeyaprakash/Employment_Dashboard)
 
 An interactive Excel dashboard exploring U.S. job market trends by state and sector.
 
-- Tools: Excel (formulas, slicers, tables — **no PivotTables**)  
-- Focus: Salary trends, job opportunities, sector comparison  
+- Focus: Excel (formulas, slicers, tables — **no PivotTables**, visualization, exploratory)  
 
 Preview:  
-![Dashboard Preview](https://github.com/yourusername/US_Employment_Dashboard/blob/main/images/dashboard1.png)
+![Dashboard Preview](https://github.com/RashwanthJeyaprakash/Employment_Dashboard/blob/main/Business1)
 
 ---
 
