@@ -33,7 +33,19 @@ An interactive Excel dashboard exploring U.S. job market trends by state and sec
 - Focus: Excel (formulas, slicers, tables — **no PivotTables**, visualization, exploratory)  
 
 Preview:  
-![Dashboard Preview](https://github.com/RashwanthJeyaprakash/Employment_Dashboard/blob/main/Business1)
+![Dashboard Preview](https://raw.githubusercontent.com/RashwanthJeyaprakash/Employment_Dashboard/main/images/Business1.png)
+
+---
+
+### 🔹 [Coffee_Shop_Dashboard](https://github.com/RashwanthJeyaprakash/CoffeeShop_dashboard)
+
+A basic sales dashboard that would help stakeholders understand key performance drivers across product, location & time.
+
+- Focus: Excel (Pivot table & charts, dashboards placements & layout, visualization )
+
+Preview:
+
+
 
 ---
 
