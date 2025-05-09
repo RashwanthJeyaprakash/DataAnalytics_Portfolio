@@ -59,10 +59,10 @@ Preview:
 ## Education & Certifications
 
 **BSc in Business management with Corporate Finance**, 
-International Business School, Budapest.
-*2021 – 2024 | Hungary*
+- International Business School, Budapest.
+- *2021 – 2024 | Hungary*
 
-- Maven Analytics – Business Intelligence Analyst Certification *(in progress)*  
+- Maven Analytics – **Business Intelligence Analyst Certification** *(in progress)*  
                       - Excel Pivot Table & Charts
                       - Advanced Excel design 
                       - My SQL Data Analysis
