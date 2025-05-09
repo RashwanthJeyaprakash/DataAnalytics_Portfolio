@@ -71,10 +71,10 @@ Preview:
 
 **BSc in Business management with Corporate Finance**, 
 - International Business School, Budapest. *2021 – 2024 | Hungary*
-- **Excellent IT Employability Skill**
-     - Excel
-     - Excel Pivot Table & Charts
-     - Tableau Desktop
+                  - **Excellent IT Employability Skill**
+                    - Excel
+                    - Excel Pivot Table & Charts
+                    - Tableau Desktop
 
 - Maven Analytics – **Business Intelligence Analyst Certification** *(in progress)*  
                       - Excel Pivot Table & Charts
