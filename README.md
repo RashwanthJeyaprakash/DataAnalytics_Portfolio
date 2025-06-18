@@ -91,7 +91,7 @@ International Business School, Budapest. *2021 – 2024 | Hungary*
 ##  Contact with me
 
 -  Email: rashwanthjeyaprakash@gmail.com
--  Phone: +36 204876382
+-  Phone: +91 9043894688
 -  LinkedIn: [http://linkedin.com/in/rashwanth-jeyaprakash]
 
 
