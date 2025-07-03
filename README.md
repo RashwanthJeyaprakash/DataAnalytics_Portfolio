@@ -1,17 +1,8 @@
-# DataAnalytics_Portfolio
+### Excel Works
 
 ---
 
-## 👋 Hi, I'm Rashwanth Jeyaprakash
-
-
-I'm a recent **Finance graduate** with a growing passion for **data analytics** and how it drives smarter business decisions. With a foundation in numbers and business strategy, I’m now focused on building real-world analytics skills across tools like **Excel, SQL, Power BI, and Tableau** by building real-word projects as part of my learning journey and certifications path.
-
-**Whether it’s wrangling messy datasets or creating interactive visuals, I enjoy making data useful — not just beautiful.**
-
----
-
-## Portfolio Overview
+### Overview
 
 Jump to a section:
 
@@ -19,12 +10,9 @@ Jump to a section:
 - [SQL Projects](#sql-projects)
 - [Power BI Reports](#power-bi-reports)
 - [Tableau Dashboards](#tableau-dashboards)
-- [Education & Certifications](#education--certifications)
 - [Contact](#contact)
 
 ---
-
-## Excel Projects
 
 ### 🔹 [US Employment Dashboard](https://github.com/RashwanthJeyaprakash/Employment_Dashboard)
 
@@ -64,27 +52,6 @@ Preview:
 ## 📈 Tableau Dashboards
 
 *Coming soon...*
-
----
-
-## Education & Certifications
-
-- **BSc in Business management with Corporate Finance**, 
-International Business School, Budapest. *2021 – 2024 | Hungary*
-
-- **Excellent IT Employability Skill**
-                    - Excel
-                    - Excel Pivot Table & Charts
-                    - Tableau Desktop
-
-- Maven Analytics – **Business Intelligence Analyst Certification** *(in progress)*  
-                      - Excel Pivot Table & Charts
-                      - Advanced Excel design 
-                      - My SQL Data Analysis
-                      - Intro to Tableau Desktop
-                      - Microsoft PowerBI Desktop
-
-- Upcoming 
 
 ---
 
