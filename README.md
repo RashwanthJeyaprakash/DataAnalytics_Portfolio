@@ -6,11 +6,11 @@
 
 Jump to a section:
 
-- [Excel Projects](#excel-projects)
-- [SQL Projects](#sql-projects)
-- [Power BI Reports](#power-bi-reports)
-- [Tableau Dashboards](#tableau-dashboards)
-- [Contact](#contact)
+- 3 STATEMENT MODEL
+- DCF
+- LBO
+- US Employment Dashboard
+- Coffee shop sales Dashboard
 
 ---
 
@@ -37,31 +37,11 @@ Preview:
 
 ---
 
-## 🛢 SQL Projects
+## 🛢 DCF / LBO / 3 STATEMENT Models
 
 *Coming soon...*
 
 ---
 
-## 📊 Power BI Reports
-
-*Coming soon...*
-
----
-
-## 📈 Tableau Dashboards
-
-*Coming soon...*
-
----
-
-##  Contact with me
-
--  Email: rashwanthjeyaprakash@gmail.com
--  Phone: +91 9043894688
--  LinkedIn: [http://linkedin.com/in/rashwanth-jeyaprakash]
-
-
----
 
 > ⚡ This portfolio is actively evolving as I continue building skills across different tools and datasets. 
