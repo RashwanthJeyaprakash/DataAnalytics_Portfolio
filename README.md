@@ -21,6 +21,15 @@ Preview:
 
 ---
 
+### Manufacturing Productivity Analysis 
+
+This Excel-based project analyzes the productivity of a manufacturing line using downtime data across different operators and failure types.
+
+-Focus: Excel 
+
+Preview:
+
+
 ### 🔹 [Coffee_Shop_Dashboard](https://github.com/RashwanthJeyaprakash/CoffeeShop_dashboard)
 
 A basic sales dashboard that would help stakeholders understand key performance drivers across product, location & time.
