@@ -39,6 +39,9 @@ A basic sales dashboard that would help stakeholders understand key performance 
 Preview:
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rashwanthjeyaprakash/CoffeeShop_dashboard/main/screenshots/Dashboard_View2.png" alt="Coffee Shop Dashboard" width="1000"/>
+</p>
 
 ---
 
