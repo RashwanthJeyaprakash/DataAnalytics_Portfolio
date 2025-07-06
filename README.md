@@ -29,6 +29,7 @@ This Excel-based project Report analyzes the productivity of a manufacturing lin
 
 ![Preview](Manufacturing_Productivity.p.png)
 
+---
 
 ### 🔹 [Coffee_Shop_Dashboard](https://github.com/RashwanthJeyaprakash/CoffeeShop_dashboard)
 
