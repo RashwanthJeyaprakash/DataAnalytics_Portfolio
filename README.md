@@ -21,11 +21,11 @@ Preview:
 
 ---
 
-### 🔹Manufacturing Productivity Analysis 
+### 🔹Manufacturing Productivity Analysis Report
 
 This Excel-based project Report analyzes the productivity of a manufacturing line using downtime data across different operators and failure types.
 
--Focus: Excel (Formulas, calculated fields, Visualization)
+- Focus: Excel (Formulas, calculated fields, Visualization)
 
 ![Preview](Manufacturing_Productivity.p.png)
 
