@@ -21,13 +21,13 @@ Preview:
 
 ---
 
-### Manufacturing Productivity Analysis 
+### 🔹Manufacturing Productivity Analysis 
 
-This Excel-based project analyzes the productivity of a manufacturing line using downtime data across different operators and failure types.
+This Excel-based project Report analyzes the productivity of a manufacturing line using downtime data across different operators and failure types.
 
--Focus: Excel 
+-Focus: Excel (Formulas, calculated fields, Visualization)
 
-Preview:
+![Preview](Manufacturing_Productivity.p.png)
 
 
 ### 🔹 [Coffee_Shop_Dashboard](https://github.com/RashwanthJeyaprakash/CoffeeShop_dashboard)
